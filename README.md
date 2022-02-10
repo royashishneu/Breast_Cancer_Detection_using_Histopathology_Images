@@ -46,7 +46,6 @@ from tqdm import tqdm_notebook as tqdm
 
 import keras_preprocessing.image as im
 from keras.models import Sequential
-from keras.layers import Dense
 from keras.wrappers.scikit_learn import KerasClassifier
 from keras.layers import Dense, Dropout, Activation, Flatten, BatchNormalization, Conv2D, MaxPool2D, MaxPooling2D
 
