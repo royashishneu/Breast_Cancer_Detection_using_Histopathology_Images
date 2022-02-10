@@ -21,7 +21,7 @@ OR
 ```bash
 brew install glob
 ```
-## List of packages used
+## Packages Used
 
 ```python
 import warnings
