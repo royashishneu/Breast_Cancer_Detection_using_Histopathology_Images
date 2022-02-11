@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/roy-ashish">
 <img alt="linkedin" src="https://img.shields.io/badge/-Ashish Roy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roy-ashish"></a>
 <img src="https://img.shields.io/badge/Version-1.0.2-blue" />
-<img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
+<img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
 <img src="https://img.shields.io/badge/Python-100%25-yellow?style=flat&logo=python&logoColor=yellow" />
 </p>
 
@@ -14,6 +14,10 @@ Invasive ductal carcinoma (IDC) is - with ~ 80 % of cases - one of the most comm
 ## Our Goal
 
 Our goal here is to develop a Deep Learning Model which can determine if the lump is cancerous or not without having to perform a biopsy or replying on the doctor's expertise.
+
+## Background Info - What is Invasive Ductal Carcinoma? <img align='right' src="https://github.com/royashishneu/Breast_Cancer_Detection_using_Histopathology_Images/blob/main/504px-Lobules_and_ducts_of_the_breast.jpg" width="190">
+
+This illustration created <a href = "https://commons.wikimedia.org/wiki/File:Lobules_and_ducts_of_the_breast.jpg">Mikael Häggström</a> shows the anatomy of a healthy breast. One can see the lobules, the glands that can produce milk which flews through the milk ducts. Ductal carcinoma starts to develop in the ducts whereas lobular carcinoma has its origin in the lobules. Invasive carcinoma is able to leave its initial tissue compartment and can form metastases.
 
 Link to <a href="https://colab.research.google.com/drive/1MIfyYIkWc6w6J3zQ2lobkzAT5jZ-E22O?usp=sharing">Google Colab Notebook</a>
 
