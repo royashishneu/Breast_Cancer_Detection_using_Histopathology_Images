@@ -70,6 +70,19 @@ from sklearn.metrics import confusion_matrix, accuracy_score, roc_curve, auc
 from sklearn.preprocessing import StandardScaler
 ```
 
+## Sample Data
+### Healthy Tissues
+![image](https://user-images.githubusercontent.com/78773964/153774564-3cce1a38-0d1b-4503-bfea-bbe56bbc01b1.png)
+
+### Cancerous Tissues
+![Screen Shot 2022-02-13 at 3 50 40 PM](https://user-images.githubusercontent.com/78773964/153774525-c94d8154-8458-4730-adf2-398f6ecdf362.png)
+
+## Model Evaluation
+
+We used AUC/ROC curve to evaluate the performance
+
+![Screen Shot 2022-02-13 at 3 54 38 PM](https://user-images.githubusercontent.com/78773964/153774670-d00889fe-1dfe-4287-8960-dfbd4cbd9129.png)
+
 ## How to Use
 
 ```python
